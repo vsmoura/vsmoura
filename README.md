@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vitor Moura!
 
 - 🔭 Atualmente trabalhando com Java back-end.
-- 🌱 Estudando React
+- 🌱 Estudando Spring
 
 ##
 
